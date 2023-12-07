@@ -1,0 +1,88 @@
+.myprofile-image {
+    height: 180px;
+    width: 180px;
+    border-radius: 90px;
+}
+.myprofile-details-container {
+    display: flex;
+    align-items: center;
+    width: 1000px;
+}
+.myprofile-followers-container {
+    display: flex;
+    align-items: center;
+}
+.myprofile-followers {
+    font-family: 'Roboto';
+    font-size: 15px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.myprofile-stories-image {
+    height: 85px;
+    width: 85px;
+    border-radius: 45px;
+    margin-right: 10px;
+}
+
+.myprofile-stories-container {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    width: 1000px;
+    margin-top: 20px;
+}
+
+.myprofile-posts-container {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+
+.myprofile-posts-image {
+    height: 330px;
+    width: 330px;
+    margin-left: 10px;
+}
+.hr-line {
+    width: 1040px;
+}
+.all-myprofile-container {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.myprofile-header-followers-container {
+    margin-left: 20px;
+}
+.myprofile-name {
+    font-family: 'Roboto';
+    font-size: 32px;
+    font-weight: 500;
+    color: #262626;
+}
+.span-element {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 300;
+    color: #262626; 
+}
+
+.myprofile-followers {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: bold;
+    color: #262626;  
+}
+.myprofile-user-id {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 300;
+    color: #262626;  
+}
+.post-image-container {
+    width: 1000px;
+}
